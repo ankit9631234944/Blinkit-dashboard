@@ -40,3 +40,9 @@ Chart Type: Stacked Column Chart.
 4. Total Sales by Outlet Establishment:
 Objective: Evaluate how the age or type of outlet establishment influences total sales.
 Chart Type: Line Chart.
+
+
+
+5. Demos
+6. Show what the dashboard looks like. -![A]t text(https://github.com/ankit9631234944/Blinkit-dashboard/blob/main/blinkit%20screenshot.png)
+7. Example: ![Dashboard Preview].(https://github.com/ankit9631234944/Blinkit-dashboard/blob/main/blinkit%20screenshot.png).
